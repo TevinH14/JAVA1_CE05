@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE05</string>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="date">Date:</string>
+    <string name="description">Description:</string>
+    <string name="todo">TODO</string>
+</resources>
